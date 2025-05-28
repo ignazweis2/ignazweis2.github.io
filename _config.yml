@@ -1,4 +1,6 @@
 #theme: minima
 remote_theme: jekyll/minima
+title: teste
+description: teste
 minima:
   skin: auto
