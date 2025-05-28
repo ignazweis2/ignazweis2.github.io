@@ -1,6 +1,3 @@
 theme: minima
-title: ignazweis2
-tagline: algo embaixo
-url: https://ignazweis2.github.io/
-github: https://github.com/ignazweis2/
-theme_mode: dual
+minima:
+  skin: dark
