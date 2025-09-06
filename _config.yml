@@ -6,10 +6,10 @@ author: ignazweis2
 remote_theme: jekyll/minima
 minima:
   skin: auto
-  date_format: "%d - %m - %Y"
+  date_format: "%d-%m-%Y"
   
 header_pages:
-  - about.md
+  - ./about.md
 
 show_excerpts: true
   
