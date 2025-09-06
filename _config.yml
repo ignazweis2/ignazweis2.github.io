@@ -1,5 +1,17 @@
+title: Meu blog
+description: Meu blog pessoal
+author: ignazweis2
+
 #theme: minima
 remote_theme: jekyll/minima
-title: ignazweis2
 minima:
   skin: auto
+  date_format: "%d - %m - %Y"
+  
+header_pages:
+  - about.md
+
+show_excerpts: true
+  
+github_username:  ignazweis2
+rss: rss
