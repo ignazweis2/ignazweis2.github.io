@@ -1,17 +1,19 @@
 title: ignazweis2 blog
 description: Meu blog pessoal.
-author: ignazweis2
+author:
+  name: ignazweis2
 
 remote_theme: jekyll/minima@7957d4f
 
 minima:
   skin: auto
   date_format: "%d-%m-%Y"
-  
-header_pages:
-  - about.md
-
-show_excerpts: true
-  
-github_username:  ignazweis2
-rss: rss
+  social_links:
+    - title: ignazweis2
+    icon: github
+    url: "https://github.com/ignazweis2"
+  hide_site_feed_link: false
+  show_excerpts: true
+  header_pages:
+    nav_pages:
+      - about.md
