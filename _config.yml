@@ -2,7 +2,8 @@ title: ignazweis2 blog
 description: Meu blog pessoal.
 author: ignazweis2
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@7957d4f
+
 minima:
   skin: auto
   date_format: "%d-%m-%Y"
