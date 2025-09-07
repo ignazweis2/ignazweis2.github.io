@@ -9,7 +9,7 @@ minima:
   skin: auto
   date_format: "%d-%m-%Y"
   social_links:
-    - title: ignazweis2
+  - title: ignazweis2
     icon: github
     url: "https://github.com/ignazweis2"
   hide_site_feed_link: false
