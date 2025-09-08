@@ -18,3 +18,5 @@ minima:
     nav_pages:
       - about.md
 
+plugins:
+  - jekyll-feed
