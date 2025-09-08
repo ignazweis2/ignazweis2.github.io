@@ -18,5 +18,3 @@ minima:
     nav_pages:
       - about.md
 
-titles_from_headings:
-  enabled: false
