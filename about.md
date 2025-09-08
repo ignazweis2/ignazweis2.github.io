@@ -1,6 +1,6 @@
 ---
 title: Sobre
-layout: base
+layout: page
 ---
 
 Meu nome é Bruno. Estou aprendendo muitas coisas no momento, inclusive programação.  
