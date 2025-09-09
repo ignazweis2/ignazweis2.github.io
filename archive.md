@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Arquivo
+permalink: /archive/
 ---
 
 <ul>
