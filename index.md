@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Início
 ---
 Bem-vindo ao meu blog.  
