@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Sobre
+permalink: /about/
 ---
 
 Meu nome é Bruno. Estou aprendendo muitas coisas no momento, inclusive programação.  
