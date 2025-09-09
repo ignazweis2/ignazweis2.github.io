@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Não uso redes sociais"
 date: 2025-09-06
 ---
