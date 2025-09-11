@@ -13,7 +13,7 @@ minima:
     icon: github
     url: "https://github.com/ignazweis2"
   hide_site_feed_link: false
-  show_excerpts: true
+  show_excerpts: false
   nav_pages:
     - archive.md
     - about.md
