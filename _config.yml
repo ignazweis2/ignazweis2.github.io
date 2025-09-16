@@ -15,8 +15,8 @@ minima:
   hide_site_feed_link: false
   show_excerpts: false
   nav_pages:
-    - archive.md
     - about.md
+    - archive.md
 
 plugins:
   - jekyll-feed
