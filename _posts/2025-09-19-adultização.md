@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adultização"
-date: 2025-09-06
+date: 2025-09-19
 ---
 
 [Link do vídeo do felca sobre adultização na plataforma YouTube](https://youtu.be/FpsCzFGL1LE?si=V1-FOTR5jyocLFnH)
